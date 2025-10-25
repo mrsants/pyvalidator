@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: pyvalidator
+Version: 0.1.0
+Summary: validation for Python (Lambda-friendly)
+Author: You
+License: MIT
+Requires-Python: >=3.9
+Dynamic: author
+Dynamic: license
+Dynamic: requires-python
+Dynamic: summary
